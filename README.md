@@ -61,7 +61,7 @@ Expected output: "1, 4"
 ```
 
 # Furtherer: Binary Search Tree (BST)
-Implement a Binary-Search Tree, as an extension of the Binary Search algorithm that you've previously implemented.
+Implement a Binary-Search Tree (https://en.wikipedia.org/wiki/Binary_search_tree), as an extension of the Binary Search algorithm that you've previously implemented.
 
 # Furtherest: Trie (Digital Tree)
-Implement a trie and use it to model the words in the wordlist at https://starbeamrainbowlabs.com/wordlists/enable1.txt. You might want to test your code with only the words that start with 'a'. Then, given the string "adsor", return list of possible autocompletions. Compare the computing cost of a trie for this problem to using the `.filter()` method.
+Implement a trie (https://en.wikipedia.org/wiki/Trie) and use it to model the words in the wordlist at https://starbeamrainbowlabs.com/wordlists/enable1.txt. You might want to test your code with only the words that start with 'a'. Then, given the string "adsor", return list of possible autocompletions. Compare the computing cost of a trie for this problem to using the `.filter()` method.
