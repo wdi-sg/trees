@@ -9,6 +9,9 @@ A tree is a data structure that can be used to model hierarchical data. It conta
 3. Except for the root node, every node has exactly 1 parent node.
 4. Each node contains some data (e.g. strings, numbers, etc).
 
+`Question: Think of all the structures you've encountered in this course. Where might you find a tree?`
+_Hint: You see one nearly each time you open the browser._
+
 Your task is to implement a general tree in Javascript with the above properties and the data shown in the above picture, and the following methods:
 
 1. A method that takes a callback as a parameter and traverses the entire tree, and executes the given callback on every node.
