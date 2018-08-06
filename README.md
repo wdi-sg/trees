@@ -1,6 +1,7 @@
 # Data Structures: Trees
 
 ![Tree](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Binary_tree.svg/384px-Binary_tree.svg.png "A tree")
+
 A tree is a data structure that can be used to model hierarchical data. It contains:
 
 1. A single root node.
@@ -53,7 +54,7 @@ Your company wants to find out which customer is bringing the most business via 
 }
 ```
 ## Task
-1. Model the above test data with using trees.
+1. Model the above test data using trees.
 2. Write a function that finds the person with the most number of referrals, and how many people he has referred.
 ```
 Expected output: "1, 4"
