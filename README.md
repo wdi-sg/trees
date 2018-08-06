@@ -44,8 +44,9 @@ tom.friend.yawn();
 Your company wants to find out which customer is bringing the most business via referrals. If A invites B, and B invites C and D, and D invites E, then A counts as having referred 4 customers.
 
 ```
+// Schema
+// Person: Referrer
 {
-    Total: 5,
     "2": "1",
     "3": "2",
     "4": "2",
