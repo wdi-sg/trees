@@ -22,7 +22,7 @@ _Note: There are broadly 2 ways of implementing the first method. You can either
 
 When you are done with the first method, use it to `console.log` each node in the tree.
 
-Hint: You can define and instantiate classes in Javascript in the following manner.
+Hint: You can define and instantiate classes in ES6 Javascript in the following manner.
 
 ```
 class Person {
